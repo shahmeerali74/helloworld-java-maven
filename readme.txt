@@ -3,7 +3,7 @@ fdsfsdfds
 fsd
 fsd
 f
-# ========================NEXUS==============================
+# ========================NEXUS==================================
 
 <distributionManagement>
 	<repository>
